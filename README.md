@@ -1,0 +1,1 @@
+A Paystack payment gateway supporting mobile money and card payments.
